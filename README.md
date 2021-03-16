@@ -1,6 +1,6 @@
 ### Hi 👋 ,I'm Raksha fauzdar
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=zerohub23.visitor-badge)]
+   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=zerohub23.visitor-badge)
 
 
 
