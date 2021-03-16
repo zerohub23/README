@@ -3,14 +3,15 @@
    ![Visitors](https://visitor-badge.glitch.me/badge?page_id=zerohub23.visitor-badge)
 
 
- ## &#x1f4c8;
+
   ![zerohub23's Stats](https://github-readme-stats.vercel.app/api?username=zerohub23&show_icons=true&theme=highcontrast&icon_color=#ff0000)  
     
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerohub23)
    
-   ## &#x1f4c8;
+    ---
    <h3 align="center">web developer</h3>
     <h3 align="center">Competitive programmer</h3>
+    ---
     
     
  ---
