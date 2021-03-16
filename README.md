@@ -1,5 +1,7 @@
 ### Hi 👋 ,I'm Raksha fauzdar
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=zerohub23.visitor-badge)]
+
 
 
   ![zerohub23's Stats](https://github-readme-stats.vercel.app/api?username=zerohub23&show_icons=true&theme=highcontrast&icon_color=#ff0000)  
