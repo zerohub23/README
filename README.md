@@ -12,10 +12,11 @@
    <h3 align="center">web developer</h3>
     <h3 align="center">Competitive programmer</h3>
     
-    ---
+    
+ ---
 **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=zerhub23">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=zerohub23">
 </p>
 
 ---
