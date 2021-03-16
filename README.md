@@ -9,8 +9,8 @@
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerohub23)
    
    
-   <h3 align="center">web developer</h3>
-   <h3 align="center">Competitive programmer</h3>
+   <h3 align="center">👩‍💻web developer</h3>
+   <h3 align="center">👩‍💻Competitive programmer</h3>
    
     
     
