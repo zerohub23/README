@@ -1,7 +1,9 @@
-![apisss-o-HL4itDvzWC4-unsplash - Copy](https://user-images.githubusercontent.com/71915465/111463854-0d910380-8746-11eb-9a72-5e8a41e7a5be.jpg)
+
 ### Hi 👋 ,I'm Raksha fauzdar
 
    ![Visitors](https://visitor-badge.glitch.me/badge?page_id=zerohub23.visitor-badge)
+   ![IMG_20210215_003445](https://user-images.githubusercontent.com/71915465/111464036-49c46400-8746-11eb-99b0-d8c740e3ed98.JPG)
+
 
 
 
