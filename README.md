@@ -5,11 +5,11 @@
    ![Visitors](https://visitor-badge.glitch.me/badge?page_id=zerohub23.visitor-badge)
    
 
-## &#x1f4c8;GitHub Stats
+## &#x1f4c8;
 
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=zerohub23&show_icons=true&theme=highcontrast&icon_color=#ff0000" /> 
     
-   <img  align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohub23&title_color=ffef00&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" />
+  <img  align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohub23&title_color=ffef00&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" />
    
  
     
