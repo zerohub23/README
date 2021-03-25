@@ -5,7 +5,7 @@
    ![Visitors](https://visitor-badge.glitch.me/badge?page_id=zerohub23.visitor-badge)
    
 
-## &#x1f4c8;
+## &#x1f4c8; GitHub Stats
 
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=zerohub23&show_icons=true&theme=highcontrast&icon_color=#ff0000" /> 
     
