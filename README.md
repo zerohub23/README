@@ -1,6 +1,6 @@
 
 ### Hi 👋 ,I'm Raksha fauzdar
-👩‍🎓I'm currently pursuing B.tech from IIIT,Ranchi.
+
 
    ![Visitors](https://visitor-badge.glitch.me/badge?page_id=zerohub23.visitor-badge)
    
