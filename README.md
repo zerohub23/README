@@ -9,12 +9,9 @@
 
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=zerohub23&show_icons=true&theme=highcontrast&icon_color=#ff0000" /> 
     
-   <img  align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohub23&title_color=ffef00&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000"/>
+   <img  align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohub23&title_color=ffef00&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" />
    
-   
-   <h3 align="center">👩‍💻web developer</h3>
-   <h3 align="center">👩‍💻Competitive programmer</h3>
-   
+ 
     
     
  ---
