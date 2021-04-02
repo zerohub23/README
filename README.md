@@ -29,6 +29,7 @@
 
  <h3 align="center">👩‍💻web developer</h3>
    <h3 align="center">👩‍💻Competitive programmer</h3>
+   <img src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559">
 
 
 
