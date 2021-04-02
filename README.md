@@ -3,8 +3,9 @@
 
 
    ![Visitors](https://visitor-badge.glitch.me/badge?page_id=zerohub23.visitor-badge)
-   
-  <img align="centre" src="https://media.giphy.com/media/hYRgI14N2bz1hAxxF6/giphy.gif" width="800">
+   <p align="centre"
+  <img  src="https://media.giphy.com/media/hYRgI14N2bz1hAxxF6/giphy.gif" width="800">
+  </p>
    
 
 ## &#x1f4c8; GitHub Stats
