@@ -30,7 +30,7 @@
  <h3 align="center">👩‍💻web developer</h3>
    <h3 align="center">👩‍💻Competitive programmer</h3>
 
-  <img src="https://tenor.com/bhNGB.gif">
+  
 
 
 
