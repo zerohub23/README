@@ -6,14 +6,13 @@
    <p align="centre">
   <img  src="https://media.giphy.com/media/hYRgI14N2bz1hAxxF6/giphy.gif" >
   </p>
- <p align="right">
-   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
-   </p>
+ 
    
 
 ## &#x1f4c8; GitHub Stats
 
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=zerohub23&show_icons=true&theme=highcontrast&icon_color=#ff0000" /> 
+  
     
   <img  align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohub23&title_color=ffef00&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" />
    
