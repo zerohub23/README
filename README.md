@@ -6,6 +6,9 @@
    <p align="centre">
   <img  src="https://media.giphy.com/media/hYRgI14N2bz1hAxxF6/giphy.gif" >
   </p>
+ <p align="right">
+   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
+   </p>
    
 
 ## &#x1f4c8; GitHub Stats
