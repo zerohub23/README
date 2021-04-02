@@ -1,5 +1,5 @@
 <p align="centre">
-  <img  src="https://media.giphy.com/media/0wEJd0weMYungfWbLd/giphy.gif" width="500" >
+  <img  src="https://media.giphy.com/media/0wEJd0weMYungfWbLd/giphy.gif" width="500" height="200px" >
   </p>
   
   Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ,I'm Raksha fauzdar
